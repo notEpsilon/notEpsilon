@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/3jJf48iNavDQzQ1IDr/giphy.gif?cid=790b7611df78111fbadfbf5c03a3d81e250a0f2648753524&rid=giphy.gif&ct=g)](https://www.github.com/notEpsilon)
+[![MasterHead](https://media2.giphy.com/media/m21r3p8DTPYKbzPHBy/giphy.gif?cid=790b76118addd8698cee19079819f5adbc7d789d7aa3ce69&rid=giphy.gif&ct=g)](https://www.github.com/notEpsilon)
 <h1 align="center">Hi 👋, I'm Ibrahim Amin</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
