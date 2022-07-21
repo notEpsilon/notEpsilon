@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/AlarmingKeenHydra-size_restricted.gif)](https://www.github.com/notEpsilon)
+[![MasterHead](https://c.tenor.com/b_xNRUNcjt4AAAAC/retro-wave.gif)](https://www.github.com/notEpsilon)
 <h1 align="center">Hi 👋, I'm Ibrahim Amin</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ibrahim amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim amin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gitlit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gitlit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim-amin-43057a196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim amin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSF6QwuZKMltfBKUTnib_RA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gitlit" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ibrahim-elsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ibrahim-elsayed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/notepsilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="notepsilon" height="30" width="40" /></a>
 </p>
