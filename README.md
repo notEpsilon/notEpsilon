@@ -1,4 +1,4 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-e7c6dfc235.gif)](https://www.github.com/notEpsilon)
+[![MasterHead](/assets/ghbanner.gif)](https://www.github.com/notEpsilon)
 <h1 align="center">Hi 👋, I'm Ibrahim Amin</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
