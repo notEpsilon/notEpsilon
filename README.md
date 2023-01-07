@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notepsilon&label=Profile%20views&color=0e75b6&style=flat" alt="notepsilon" /> </p>
 
-- 🔭 I’m currently working on [React-Spring-CRUD](https://github.com/notEpsilon/React-SpringBoot-CRUD)
+- 🔭 I’m currently working on Building a Distributed in-memory cache
 
-- 🌱 I’m currently learning **Spring, Next.js, GraphQL, Docker**
+- 🌱 I’m currently learning **Distributed Systems Stuff**
 
-- 💬 Ask me about **React, Node.js, Spring, TailwindCSS**
+- 💬 Ask me about **React, Node.js, Go, TailwindCSS**
 
 - 📫 How to reach me **ibrahimnasr393@gmail.com**
-
-- ⚡ Fun fact **I like java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
