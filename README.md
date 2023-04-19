@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notepsilon&label=Profile%20views&color=0e75b6&style=flat" alt="notepsilon" /> </p>
 
-- 🔭 I’m currently working on Building a Distributed in-memory cache
-
 - 🌱 I’m currently learning **Distributed Systems Stuff**
 
 - 💬 Ask me about **React, Node.js, Go, TailwindCSS**
